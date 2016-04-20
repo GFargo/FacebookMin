@@ -25,7 +25,7 @@ chrome.webNavigation.onCompleted.addListener(function(details) {
         console.log('Steve URL: ', imgURL);
 
         chrome.tabs.executeScript(details.tabId, {
-            code: 'document.getElementsByClassName("home_right_column")[0].style.backgroundImage =  "url(' + imgURL +')";'
+            code: 'document.getElementsByClassName("cardRightCol")[0].style.backgroundImage =  "url(' + imgURL +')";'
         });
     }
 }, {
