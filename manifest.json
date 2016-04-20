@@ -17,10 +17,8 @@
     "persistent": false
   },
   "permissions": [
-    "history",
     "tabs",
     "webNavigation",
-    "*://*/*",
     "https://www.facebook.com/*"
   ],
   "web_accessible_resources": [

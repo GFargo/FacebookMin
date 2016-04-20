@@ -12,11 +12,6 @@
     overflow: hidden;
 }
 
-#contentArea #stream_pagelet > div > ._5vb_,
-#contentArea #stream_pagelet > div >  ._5vb_ #contentCol {
-    bacground: transparent;
-}
-
 
 .cardRightCol,
 .home_right_column {
