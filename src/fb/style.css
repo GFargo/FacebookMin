@@ -1,5 +1,7 @@
 #stream_pagelet,
 #pagelet_trending_tags_and_topics,
 #pagelet_ego_pane {
-    display: none;
+    opacity: 0;
+    height: 1px;
+    overflow: hidden;
 }
