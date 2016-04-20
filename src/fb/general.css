@@ -11,3 +11,16 @@
     height: 1px;
     overflow: hidden;
 }
+
+#contentArea #stream_pagelet > div > ._5vb_,
+#contentArea #stream_pagelet > div >  ._5vb_ #contentCol {
+    bacground: transparent;
+}
+
+
+.home_right_column {
+    // background-image: url('../img/steve.gif');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+
+}
