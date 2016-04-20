@@ -1,9 +1,9 @@
 {
-  "name": "FacebookMin : Get Rid of the Noise",
+  "name": "FacebookMin : Minimize the Noise",
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "This extension was created to simplify facebook down to its original purpose, to connect people",
-  "homepage_url": "http://extensionizr.com",
+  "homepage_url": "https://github.com/GFargo/FacebookMin",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

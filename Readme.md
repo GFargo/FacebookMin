@@ -1,4 +1,4 @@
-# 👊 FacebookMin - Minimize the Noise 👊
+# FacebookMin - Minimize the Noise 👊
 
 One day I woke up and was tired of the [time suck](http://www.urbandictionary.com/define.php?term=time+suck) characteristics about Facebook.  Instead of simply deleting my account I decided to explore the capabilities of [Google Extensions](https://developer.chrome.com/extensions).
 
