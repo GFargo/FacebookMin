@@ -25,7 +25,7 @@
   "content_scripts": [
     {
       "matches": ["https://www.facebook.com/*"],
-      "css": ["src/fb/style.css"]
+      "css": ["src/fb/general.css"]
     }
   ]
 }

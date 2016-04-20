@@ -1,6 +1,12 @@
-#stream_pagelet,
 #pagelet_trending_tags_and_topics,
 #pagelet_ego_pane {
+    opacity: 0;
+    height: 1px;
+    overflow: hidden;
+}
+
+
+#contentArea #stream_pagelet > div > ._5pcb{
     opacity: 0;
     height: 1px;
     overflow: hidden;
