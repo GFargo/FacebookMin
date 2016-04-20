@@ -1,6 +1,6 @@
 # FacebookMin - Minimize the Noise
 
-One day I woke up and was tired of the [time sucking](http://www.urbandictionary.com/define.php?term=time+suck) characteristics about Facebook.  Instead of simply deleting my account and in turn losing access to my friends I decided to get a little creative.  Enter FacebookMin...
+One day I woke up and was tired of the [time suck](http://www.urbandictionary.com/define.php?term=time+suck) characteristics about Facebook.  Instead of simply deleting my account and in turn losing access to my friends I decided to get a little creative.  Enter FacebookMin...
 
 This Chrome Extension will automatically remove the "News Feed" when visiting Facebook.
 
